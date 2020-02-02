@@ -1,0 +1,9 @@
+//SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
+#SRC_IMAGE,0,110,0,0,0,0,1,1,0,0,,,,,,,,,,
+//DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
+#DST_IMAGE,0,0,0,1080,1080,200,0,85,255,255,255,0,0,90,7,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,
+//SRC定義,index,(gr),(x),(y),(w),(h),(div_x),(div_y),(cycle),(timer),field_w,field_h,(start),(end),delay,backTexOff,orderReverse,noGap,,
+#SRC_NOTECHART_1P,2,0,0,0,1,1,1,1,0,0,1080,200,0,0,0,1,1,1,,
+//DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
+#DST_NOTECHART_1P,2,0,200,1080,1,1,0,255,255,255,255,0,0,90,7,0,0,0,0,0
