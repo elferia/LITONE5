@@ -16,7 +16,7 @@
 #IMAGE,.\LR2files\Theme\LITONE5\Select\customize\background\image\CGSS\*.cim,,,,,,,,,,,,,,,,,,,,
 #ENDIF,,,,,,,,,,,,,,,,,,,,,
 #IF,905,,,,,,,,,,,,,,,,,,,,
-#IMAGE,.\LR2files\Theme\LITONE5\Select\customize\background\image\lovelive\*.jpg,,,,,,,,,,,,,,,,,,,,
+#IMAGE,.\LR2files\Theme\LITONE5\Select\customize\background\image\lovelive\*.png,,,,,,,,,,,,,,,,,,,,
 #ENDIF,,,,,,,,,,,,,,,,,,,,,
 #IF,910,,,,,,,,,,,,,,,,,,,,
 #IMAGE,.\LR2files\Theme\LITONE5\Select\parts\dummy.cim,,,,,,,,,,,,,,,,,,,,
